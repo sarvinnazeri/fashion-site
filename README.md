@@ -1,6 +1,7 @@
 # fashion-site
 
-<img width="1194" alt="Screen Shot 2024-05-07 at 3 35 40 AM" src="https://github.com/sarvinnazeri/billiard-/assets/166671712/7ea4fcad-0dbd-4d2c-893c-6a9b46b4c5be">
+<img width="1194" alt="Screen Shot 2024-05-07 at 3 35 40 AM" src="https://github.com/sarvinnazeri/fashion-site/assets/166671712/d635f37f-9f76-46ad-b6bd-b84fb2b516dc">
+<img width="1194" alt="Screen Shot 2024-05-07 at 3 35 40 AM" src="https://github.com/sarvinnazeri/fashion-site/assets/166671712/b5d77c8d-4c71-4657-adc4-54886d262574">
 
 - [Demo Project][(https://sarvinnazeri.github.io/fashion-site/)]
 
